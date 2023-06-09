@@ -3,7 +3,7 @@
 ## Description
 Spinning Donut is a simple yet mesmerizing visual project written in C and SDL. This project renders a rotating 3D donut in your screen, utilizing fundamental principles of computer graphics.
 
-![Spinning Donut](http://your_image_url_here)
+![Spinning Donut](result.gif)
 
 ## Screenshots
 Replace this with your screenshots
