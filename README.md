@@ -5,13 +5,9 @@ Spinning Donut is a simple yet mesmerizing visual project written in C and SDL. 
 
 ![Spinning Donut](./result.gif)
 
-## Screenshots
-Replace this with your screenshots
-<img src="your_image_url_here" width="240"/> <img src="your_image_url_here" width="240"/>
-
 ## Technologies Used
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="80">](https://en.wikipedia.org/wiki/C_(programming_language))[<img src="https://www.libsdl.org/media/SDL_logo.png" alt="SDL" height="80">](https://www.libsdl.org/index.php)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C++" height="80">](https://en.wikipedia.org/wiki/C_(programming_language)) [<img src="https://www.libsdl.org/media/SDL_logo.png" alt="SDL" height="80">](https://www.libsdl.org/index.php)
 
 ## Installation Instructions
 
